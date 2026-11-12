@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, Soy Angel Gonzalez Flores, 
+Estudiante de ingeniería Informática de la universidad de guadalajara. 
+Tlaquepaque, Jalisco, México 
 
-<!--
-**AnnGlez/AnnGlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Peogramador enfocado en lenguajes de: 
+Python, C++, SQl, JavaScrpit 
 
-Here are some ideas to get you started:
+Herramientas con las que trabajo:
+Node.js React, Visual Studio Code para html y css, PostGreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis proyectos mas destacados son: 
+Paper System-Lp : 
+Juego de la vivorita en C++: 
